@@ -9,7 +9,6 @@ I'm a Back-End Developer with a passion for building robust web applications usi
   - sinaabszde83@gmail.com
   - https://t.me/SinaAbszde
   - https://linkedin.com/in/SinaAbszde
-  - https://instagram.com/Sina.Abszde
 
 ### Skills and Expertise:
 - **Proficient with .NET Core**: I have a solid foundation in the MVC architectural pattern and a strong capability in building RESTful Web APIs, aiming to create web applications that are both robust and maintainable. I apply principles of Clean Architecture and Test-Driven Development (TDD) to enhance software quality.
